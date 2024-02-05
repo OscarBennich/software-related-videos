@@ -11,3 +11,4 @@
 - [The difference between good and bad systems design, the core of good engineering](https://youtu.be/I2G3OftfsfA?t=621)
 - [Part of the value that software developers and software engineerings bring to the table](https://youtu.be/I2G3OftfsfA?t=692)
 - [Regarding the value of monitoring](https://youtu.be/I2G3OftfsfA?t=726)
+- [Most teams are under stress to produce more and more features, focusing them on only the happy path, leading to more fragile systems](https://youtu.be/I2G3OftfsfA?t=763)
